@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a gui application in Rust that will help new musicians work on their rhythm (for as long I can maintain my attention); the repository will be public when I can make it somewhat acceptable, lol.
+
+The j is for Jazz.
 
 <!--
 **chris-dykes-j/chris-dykes-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
