@@ -1,4 +1,4 @@
-I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a gui application in Rust that will help new musicians work on their rhythm (for as long I can maintain my attention); the repository will be public when I can make it somewhat acceptable, lol.
+I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a gui application that will help new musicians work on their rhythm (for as long I can maintain my attention); the repository will be public when I can make it somewhat acceptable, lol.
 
 The j is for Jazz.
 
