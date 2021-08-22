@@ -1,4 +1,4 @@
-I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a browser application that will help new musicians work on their rhythm (for as long I can maintain my attention); I was initially planning to make it a desktop application, but I realised that it would be more useful and much easier to work in the browser.
+I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a browser application that will help new musicians work on their rhythm (for as long I can maintain my attention). I am also working on a personal blog site.
 
 The j is for Jazz.
 
