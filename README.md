@@ -1,6 +1,6 @@
-I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. Currently, I'm working on a browser application that will help new musicians work on their rhythm (for as long I can maintain my attention). I am also working on a personal blog site.
+I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. I will be finishing up a blog site in the next month, and will be working on various projects while working through the semester.
 
-The j is for Jazz.
+The j is for Jazz!
 
 <!--
 **chris-dykes-j/chris-dykes-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
