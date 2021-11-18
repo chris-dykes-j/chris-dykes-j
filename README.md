@@ -1,4 +1,4 @@
-I'm a noob programmer, student, and drummer. I have varying degrees of experience with Java, Python, JS, PHP, and Rust. I will be finishing up a blog site in the next month, and will be working on various projects while working through the semester.
+I'm a student, drummer, and aspiring web developer. I have varying levels of experience with Java, Python, JS, PHP, Rust, and C++.
 
 The j is for Jazz!
 
