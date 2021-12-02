@@ -1,4 +1,4 @@
-I'm a student, drummer, and aspiring web developer. I have varying levels of experience with Java, Python, JS, PHP, Rust, and C++.
+I'm a student, drummer, and aspiring web developer. I have varying levels of experience with JS, TS, Rust, C++, Java, Python, and PHP. Currently working on front-end web development; taking baby steps here.
 
 The j is for Jazz!
 
