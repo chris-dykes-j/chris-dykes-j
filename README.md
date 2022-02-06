@@ -1,6 +1,6 @@
-I'm a student, drummer, and aspiring web developer. I have varying levels of experience with JS, TS, Rust, C++, Java, Python, and PHP. Currently working on front-end web development; taking baby steps here.
+I'm a student, drummer, and aspiring web developer. I have varying levels of experience with JS, TS, Rust, C++, Java, Python, and PHP. Currently improving my front-end development, and building a dev blog.
 
-The j is for Jazz!
+The j is for Jazz.
 
 <!--
 **chris-dykes-j/chris-dykes-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
