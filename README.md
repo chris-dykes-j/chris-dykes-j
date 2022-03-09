@@ -1,3 +1,3 @@
-Student, drummer, and aspiring web developer. I have experience with JS, TS, Node.js, Rust, Java, and PHP.
+Student, drummer, and aspiring web developer; I have worked with JavaScript, Node.js, TypeScript, Rust, Java, and PHP.
 
-Currently improving my backend skills, improving a rhythm app, and building a fullstack application.
+Currently, I'm improving my scripting, backend development, and learning react; working on a fullstack application for game data that I hope will be useful!
