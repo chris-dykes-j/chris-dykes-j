@@ -1,5 +1,4 @@
-Student, drummer, and aspiring web developer; I have worked with JavaScript, Node.js, TypeScript, Java, Rust and PHP.
-
-Finishing up the semester, and working in September!
+Student, drummer, and aspiring web developer. I have worked with C#, JavaScript, TypeScript, Java, Rust, and regretably, PHP.
+Currently doing student placement at Environment and Climate Change Canada as a Web Developer.
 
 My student account: https://github.com/Chris-Dykes-Gonq
