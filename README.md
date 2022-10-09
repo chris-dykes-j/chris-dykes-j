@@ -10,3 +10,4 @@
 ### Stats:
 
 ![](https://raw.githubusercontent.com/chris-dykes-j/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chris-dykes-j/github-stats/master/generated/languages.svg#gh-light-mode-only)
