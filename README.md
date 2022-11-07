@@ -1,9 +1,10 @@
 
 ### About Me:
 
-- 🖥️ Taking Computer Programming at Algonquin College
+- 🖥️ Computer Programming at Algonquin College
 - 🇨🇦 Web Developer at Environment and Climate Change Canada (Co-op)
-- 🥁 I play drums in my spare time
+- 🥁 I play drums...
+- 🎮 ... and videogames of course
 
 ---
 
