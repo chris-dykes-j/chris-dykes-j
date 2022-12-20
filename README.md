@@ -1,10 +1,12 @@
 
 ### About Me:
 
-- 🖥️ Computer Programming at Algonquin College
 - 🇨🇦 Web Developer at Environment and Climate Change Canada (Co-op)
-- 🥁 I play drums...
-- 🎮 ... and videogames of course
+- 🖥️ Computer Programming Student at Algonquin College
+- 🥁 Amateur Jazz Drummer
+- 🎮 Fighting Game Enthusiast
+
+I make Web Applications, and mostly use C# and ASP.NET Core.
 
 ---
 
