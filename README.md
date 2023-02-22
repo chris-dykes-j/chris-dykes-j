@@ -6,7 +6,7 @@
 - 🥁 Amateur Jazz Drummer
 - 🎮 Fighting Game Enthusiast
 
-I make Web Applications, and mostly use C# and ASP.NET Core.
+I'm a C# and ASP.NET Core Web Developer with experience building Web APIs and full-stack applications. Currently working on a number of projects, and learning more about REST and PostgreSQL.
 
 ---
 
