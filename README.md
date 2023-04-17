@@ -1,12 +1,11 @@
 
 ### About Me:
 
-- 🇨🇦 Web Developer at Environment and Climate Change Canada (Co-op)
 - 🖥️ Computer Programming Student at Algonquin College
 - 🥁 Amateur Jazz Drummer
 - 🎮 Fighting Game Enthusiast
 
-I'm a C# and ASP.NET Core Web Developer with experience building Web APIs and full-stack applications. Currently working on a number of projects, and learning more about REST and PostgreSQL.
+I'm a C# and ASP.NET Core Web Developer. I like to build Web APIs and full-stack applications.
 
 ---
 
