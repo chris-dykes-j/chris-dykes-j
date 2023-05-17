@@ -1,11 +1,12 @@
 
 ### About Me:
 
-- 🖥️ Computer Programming Student at Algonquin College
-- 🥁 Amateur Jazz Drummer
-- 🎮 Fighting Game Enthusiast
+- 🎓 Computer Programming student at Algonquin College.
+- 🥁 Code maestro by day, jazz drummer by night.
+- 🎮 Fighting Game enthusiast.
+- 🐧 I use arch btw.
 
-I'm a C# and ASP.NET Core Web Developer. I like to build Web APIs and full-stack applications.
+Experienced C# and ASP.NET Core Web Developer, building Web APIs and full-stack applications.
 
 ---
 
