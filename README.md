@@ -2,7 +2,7 @@
 ### About Me:
 
 - 🎓 Computer Programming student at Algonquin College.
-- 🥁 Code maestro by day, jazz drummer by night.
+- 🥁 Code monkey by day, jazz drummer by night.
 - 🎮 Fighting Game enthusiast.
 - 🐧 I use arch btw.
 
