@@ -6,7 +6,7 @@
 - 🎮 Fighting Game enthusiast.
 - 🐧 I use arch btw.
 
-Experienced C# and ASP.NET Core Web Developer, building Web APIs and full-stack applications.
+Experienced C# and ASP.NET Core Web Developer, building Web APIs and full-stack applications. I've also worked extensively on Java projects and with JavaScript, TypeScript.
 
 ---
 
