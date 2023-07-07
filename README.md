@@ -1,4 +1,3 @@
-
 ### About Me:
 
 - 🎓 Computer Programming student at Algonquin College.
@@ -6,7 +5,7 @@
 - 🎮 Fighting Game enthusiast.
 - 🐧 I use arch btw.
 
-Experienced C# and ASP.NET Core Web Developer, building Web APIs and full-stack applications. I've also worked extensively on Java projects and with JavaScript, TypeScript.
+Versatile Software Developer. Experienced building applications in C#, ASP.NET Core, Java, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. I suck at front end though.
 
 ---
 
