@@ -5,7 +5,7 @@
 - 🎮 Fighting Game enthusiast.
 - 🐧 I use arch btw.
 
-Versatile Software Developer. Experienced building applications in C#, ASP.NET Core, Java, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. I suck at front end though.
+Versatile Software Developer. Experienced building applications in C#, ASP.NET Core, Java, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications.
 
 ---
 
