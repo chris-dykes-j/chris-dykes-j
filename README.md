@@ -1,6 +1,5 @@
 ### About Me:
 
-- 🎓 Computer Programming student at Algonquin College.
 - 🥁 Code monkey by day, jazz drummer by night.
 - 🎮 Fighting Game enthusiast.
 - 🐧 I use arch btw.
