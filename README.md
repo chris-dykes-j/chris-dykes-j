@@ -16,7 +16,7 @@ Versatile Software Developer. Experienced building applications with C#, Java, G
 
 - 🌐 [Portfolio](https://chris-dykes.dev/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/christopher-dykes/)
-- 📝 [Blog](chris-dykes-j.github.io/)
+- 📝 [Blog](https://chris-dykes-j.github.io/)
 
 ---
 
