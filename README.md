@@ -1,18 +1,17 @@
-### About Me:
+<h3 align="center">About Me</h1>
 
-- 🤖 C# and ASP.NET Core developer
-- 🐘 Postgres enjoyer.
-- 🐧 I use arch btw.
-- 🍥 Debian for servers.
-- 🎓 Computer Programming graduate from Algonquin College.
-- 🥁 Code monkey by day, jazz drummer by night.
-- 🎮 Fighting Game enthusiast.
+Versatile Software Developer, experienced building web applications with a variety of languages, including C#, Java, Go, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. Currently working on a portfolio site, and improving my Figure Web API. <|°_°|>
+
+- 🤖 C# and ASP.NET Core Developer
+- 🐘 Postgres enjoyer
+- 🐧 I use arch btw
+- 🍥 Debian for servers
+- 🎓 Computer Programming graduate from Algonquin College
+- 🥁 Code monkey by day, jazz drummer by night
+- 🎮 Fighting Game enthusiast
 - 👺 Forever debugging...
 
-Versatile Software Developer. Experienced building applications with C#, Java, Go, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. Currently working on a portfolio site, and improving my Figure Web API. <|°_°|>
-
-
-### Links:
+#### Links
 
 - 🌐 [Portfolio](https://chris-dykes.dev/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/christopher-dykes/)
