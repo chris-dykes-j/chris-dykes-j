@@ -1,21 +1,19 @@
 <h3 align="center">About Me</h1>
 
-Versatile Software Developer, experienced building web applications with a variety of languages, including C#, Java, Go, JavaScript, and TypeScript. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. Currently working on a portfolio site, and improving my Figure Web API. <|°_°|>
+I'm Chris, a software developer from Ottawa, Canada. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. Currently improving my Figure Web API.
 
 - 🤖 C# and ASP.NET Core Developer
 - 🐘 Postgres enjoyer
 - 🐧 I use arch btw
 - 🍥 Debian for servers
 - 🎓 Computer Programming graduate from Algonquin College
-- 🥁 Code monkey by day, jazz drummer by night
+- 🥁 Jazz drummer
 - 🎮 Fighting Game enthusiast
-- 👺 Forever debugging...
 
 #### Links
 
 - 🌐 [Portfolio](https://chris-dykes.dev/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/christopher-dykes/)
-- 📝 [Blog](https://chris-dykes-j.github.io/)
 
 ---
 
