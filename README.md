@@ -5,8 +5,7 @@ I'm Chris, a software developer from Ottawa, Canada. I specialize in developing 
 - 🤖 C# and ASP.NET Core Developer
 - 🐘 Postgres enjoyer
 - 🐧 I use arch btw
-- 🍥 Debian for servers
-- 🎓 Computer Programming graduate from Algonquin College
+- 🎓 Algonquin College graduate
 - 🥁 Jazz drummer
 - 🎮 Fighting Game enthusiast
 
