@@ -28,11 +28,11 @@ I'm Chris, a software developer from Ottawa, Canada. I specialize in developing 
 
 <p align="center">
   <a href="https://git.io/streak-stats#gh-light-mode-only">
-    <img src="https://streak-stats.demolab.com/?user=chris-dykes-j&theme=vue">
+    <img src="https://github-readme-streak-stats-pi-gold.vercel.app?user=chris-dykes-j&theme=vue">
   </a>
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats#gh-dark-mode-only">
-    <img src="https://streak-stats.demolab.com/?user=chris-dykes-j&theme=dark-smoky">
+    <img src="https://github-readme-streak-stats-pi-gold.vercel.app?user=chris-dykes-j&theme=dark-smoky">
   </a>
 </p>
