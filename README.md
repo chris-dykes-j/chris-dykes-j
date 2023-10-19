@@ -1,14 +1,14 @@
 <h3 align="center">About Me</h1>
 
-I'm Chris, a software developer from Ottawa, Canada. I specialize in developing robust, secure, and scalable applications, from Web APIs to full-stack applications. Currently improving my Figure Web API and toying with the Go language.
+I'm Chris, a software developer from Ottawa, Canada. I specialize in developing scalable, secure, and robust applications. Currently freelancing, and developing my portfolio.
 
+- 👺 Go Fanboy
 - 🤖 C# and ASP.NET Core Developer
-- 👺 Go fan
-- 🐘 Postgres enjoyer
+- 🐘 Postgres Enjoyer
 - 🐧 I use arch btw
-- 🎓 Algonquin College graduate
-- 🥁 Jazz drummer
-- 🎮 Fighting game enthusiast
+- 🎓 Algonquin College Graduate
+- 🥁 Jazz Drummer
+- 🎮 Fighting Game Enthusiast
 
 #### Links
 
