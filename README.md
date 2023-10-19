@@ -10,11 +10,6 @@ I'm Chris, a software developer from Ottawa, Canada. I specialize in developing 
 - 🥁 Jazz Drummer
 - 🎮 Fighting Game Enthusiast
 
-#### Links
-
-- 🌐 [Portfolio](https://chris-dykes.dev/)
-- 👔 [LinkedIn](https://www.linkedin.com/in/christopher-dykes/)
-
 ---
 
 <h3 align="center">Statistics</h1>
