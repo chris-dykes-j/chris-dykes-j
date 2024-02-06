@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h1>
 
-I'm Chris, a software developer from Ottawa, Canada. I specialize in developing scalable, secure, and robust web applications. Currently rebuilding my web api and portfolio.
+I'm Chris. I specialize in developing scalable, secure, and robust web applications. I'm currently attending Carleton University, rebuilding my web api, and growing my portfolio.
 
 - 🤖 C# and ASP.NET Core Developer
 - 👺 Go Fanboy
