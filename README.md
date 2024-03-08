@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h1>
 
-I'm Chris. I specialize in developing scalable, secure, and robust web applications. I'm currently attending Carleton University, rebuilding my web api, and growing my portfolio.
+Hi, I'm Chris, and I'm a web developer currently attending Carleton University. My primary interest is in building useful and interesting applications that are robust, scaleable, and secure. Currently, I'm reworking my portfolio and fixing up my <a href="https://chris-dykes.dev">homepage</a>.
 
 - 🤖 C# and ASP.NET Core Developer
 - 👺 Go Fanboy
