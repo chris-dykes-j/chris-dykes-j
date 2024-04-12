@@ -7,6 +7,8 @@ Hi! I'm Chris, a web developer. Currently, I'm reworking my portfolio and will *
 - 🐘 Postgres Enjoyer
 - 🐧 I use arch btw
 
+#### (╯°□°)╯︵ ┻━┻
+
 ---
 
 <h3 align="center">Statistics</h3>
@@ -28,7 +30,3 @@ Hi! I'm Chris, a web developer. Currently, I'm reworking my portfolio and will *
     <img src="https://github-readme-streak-stats-pi-gold.vercel.app?user=chris-dykes-j&theme=dark-smoky">
   </a>
 </p>
-
----
-
-<h3 align="center">(╯°□°)╯︵ ┻━┻</h3>
