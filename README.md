@@ -1,6 +1,7 @@
 <h3 align="center">About Me</h3>
 
-Hi! I'm Chris. I like to create web applications with a primary focus on and interest in backend development. Currently working at Environment and Climate Change Canada. 🍁
+Hi! I'm Chris. I like to create web applications with a primary focus on and interest in backend development.
+Currently working at Environment and Climate Change Canada. 🍁
 
 - 💾 C# and ASP.NET Core Developer
 - 👺 Go Fanboy✨
