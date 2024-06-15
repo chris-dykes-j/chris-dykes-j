@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h3>
 
-Hi! I'm Chris. I like to create unique web applications with a primary focus on and interest in backend development. Currently, I'm reworking my portfolio and *eventually*, I will begin updating my <a href="https://chris-dykes.dev">homepage</a>.
+Hi! I'm Chris. I like to create web applications with a primary focus on and interest in backend development. Currently, working at Environment and Climate Change Canada. 🍁
 
 - 💾 C# and ASP.NET Core Developer
 - 👺 Go Fanboy✨
